@@ -15,7 +15,7 @@ SRE/DevOps, Security Engineer specializing in secure cloud infrastructure, threa
 
 🔧 Languages: Python, Go, Swift, JavaScript/HTML/CSS
 
-☁️ Secure Infra: Kubernetes, Docker, AWS EKS, Prometheus, Ingress, OPA Gatekeeper
+☁️ Secure Infra: Kubernetes, Docker, AWS EKS, Prometheus, Ingress/API Gateway.
 
 🔒 Security: Threat Modeling, Zero-Trust, Falco, Trivy, Secrets Scanning, RBAC
 
