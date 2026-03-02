@@ -14,11 +14,17 @@ SRE/DevOps, Security Engineer specializing in secure cloud infrastructure, threa
 ## 🛡️ Skills & Technologies
 
 🔧 Languages: Python, Go, Swift, JavaScript/HTML/CSS
+
 ☁️ Secure Infra: Kubernetes, Docker, AWS EKS, Prometheus, Ingress, OPA Gatekeeper
+
 🔒 Security: Threat Modeling, Zero-Trust, Falco, Trivy, Secrets Scanning, RBAC
+
 🤖 AI/ML Security: Vector DB Hardening, RAG Security, LLM Guardrails, Prompt Injection Defense
+
 📱 DevSecOps: VSCode, npm, n8n Workflows, Slack/Mattermost Secure Bots, GitHub Advanced Security
+
 🔌 Secure IoT: ESP32, Raspberry Pi, Firmware Security, Secure Boot, TLS Everywhere
+
 📊 Monitoring: SRE Practices, Security Dashboards, SIEM Integration, Anomaly Detection
 
 
