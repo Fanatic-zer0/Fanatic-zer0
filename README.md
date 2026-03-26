@@ -6,9 +6,6 @@
 
 SRE/DevOps, Security Engineer specializing in secure cloud infrastructure, threat-informed DevOps, AI security pipelines, hardened IoT devices, Building zero-trust systems.
 
-[![CKA](https://img.shields.io/badge/CKA-Certified-blue)](https://www.cncf.io/training/certification/cka/) 
-[![OSCP](https://img.shields.io/badge/OSCP-Like-red)](https://www.offsec.com/courses/pen-200/)
-
 </div>
 
 ## 🛡️ Skills & Technologies
