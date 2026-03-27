@@ -130,7 +130,7 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
 
 | `>_` Repo | Description | Stack |
 |-----------|-------------|-------|
-| **[k8s-ai-operator](https://github.com/yourusername/repo)** | Custom CRDs for AI workload orchestration on Minikube | Go · Kubernetes · Helm |
+| **[k8s-ai-operator](https://github.com/yourusername/repo)** | Custom CRDs for AI workload orchestration | Go · Kubernetes · Helm |
 | **[n8n-genai-workflows](https://github.com/yourusername/repo)** | Automated LLM pipelines for RAG, summarization, fine-tuning | n8n · Ollama · Python |
 | **[rag-system](https://github.com/yourusername/repo)** | Production-grade RAG with ChromaDB and Hugging Face models | Python · LangChain · ChromaDB |
 | **[k8s-pentest-toolkit](https://github.com/yourusername/repo)** | Automated security scanning and hardening for K8s clusters | Python · Go · Bash |
@@ -144,13 +144,18 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fanatic-zer0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&border_color=00FF41" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatic-zer0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fanatic-zer0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&cache_seconds=14400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatic-zer0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33&langs_count=8&cache_seconds=14400" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Fanatic-zer0&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33&sideNums=00FF41&currStreakNum=00FF41" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanatic-zer0&bg_color=000000&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20MATRIX%20GRID" width="98%" alt="Activity Graph" />
+</p>
+
 
 <br>
 
