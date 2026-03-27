@@ -1,19 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami;SRE+%2F+DevOps+Engineer+%7C+Pune%2C+India;%24+cat+%2Fproc%2Fskills;Kubernetes+%7C+GenAI+%7C+Security+%7C+Edge;%24+sudo+kubectl+apply+-f+self.yaml;Applying...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%5B+OK+%5D+All+systems+operational;THE+MATRIX+HAS+YOU...)](https://git.io/typing-svg)
 
-[![Profile Views](https://visitcount.itsfoss.com/api?id=Fanatic-zer0&label=Profile+Views&color=6&pretty=true)](https://github.com/Fanatic-zer0)
+![Profile Views](https://komarev.com/ghpvc/?username=Fanatic-zer0&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
 
 </div>
-
-<br>
-
-```text
-ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ 0 1 0 1
-ﾐ   ﾋ   ｰ   ｼ   ﾅ   ﾓ   ｻ   ﾂ   ｵ   ﾘ   ﾎ   ﾃ   ｹ   ｴ   ｷ   ﾕ   ｾ   ｽ  ﾇ
-ﾊ   ｳ   ﾆ   ﾜ     ｱ     ﾏ   ﾒ     ｶ   ﾑ   ﾗ     ﾈ   ﾀ     ﾍ   1   0   1
-0 1 0 0 1 0 0 1  [ WAKE UP, NEO ]  0 1 0 0 1 0 1 0 0 1 0 1 0 1 1 0 0 1
-ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ 0 1 0 1
-```
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
@@ -48,9 +38,9 @@
 <br>
 
 ```text
-╔══════════════════════════════════╗
-║   INITIATING SKILL SCAN...       ║
-╚══════════════════════════════════╝
+╔═════════════════════════════════════════╗
+║       INITIATING SKILL SCAN......       ║
+╚═════════════════════════════════════════╝
 ```
 
 ```bash
