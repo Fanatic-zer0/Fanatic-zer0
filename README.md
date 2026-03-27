@@ -18,15 +18,15 @@
 [console@matrix ~]$ profilefetch
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  ﾊ /\  ﾆ /\ ｼ      Fanatic-zer0 @ github.com                        │
+│  ﾊ /\  ﾆ /\ ｼ      Fanatic-zer0 @ github.com                        │   
 │   /☸ \ /☸ \       ───────────────────────────────────────          │
 │  / ── \/ ── \     role      │  SRE / DevOps Engineer               │
 │ / ☸       ☸ \     location  │  Pune, India                         │
-│ ─────────────     uptime    │  [X]+ years in production            │
+│ ─────────────     uptime    │  10+ years in production             │
 │    │   ☸   │      shell     │  zsh 5.9 + tmux 3.3                  │
 │    │       │      editor    │  Neovim / Cursor.ai                  │
 │                   wm        │  tmux + i3                           │
-│  0 1 ﾃ ﾏ ｹ 1 0     focus     │  K8s · GenAI · Security              │ 
+│  0 1 ﾃ ﾏ ｹ 1 0    focus      │  K8s · GenAI · Security              │ 
 │  ﾊ ﾐ 0 ﾋ ｰ 1 ﾅ     cpu       │  caffeine-overclocked                │
 │  1 ｻ ﾜ ﾂ 0 ｵ ﾘ     memory    │  always OOM, forever paging          │
 │                   colors    │  ▓▓▓▓ 00FF41  ░░░░ 003300            │
@@ -47,26 +47,26 @@
 $ kubectl get skills --all-namespaces -o wide
 
 NAMESPACE       NAME                  STATUS    READINESS   AGE
-cloud-native    kubernetes-operators  Running   100%        [X]y
-cloud-native    helm                  Running   100%        [X]y
-cloud-native    prometheus-grafana    Running   100%        [X]y
-cloud-native    opentelemetry         Running   100%        [X]y
-cloud-native    terraform             Running   100%        [X]y
+cloud-native    kubernetes-operators  Running   100%        6y
+cloud-native    helm                  Running   100%        6y
+cloud-native    prometheus-grafana    Running   100%        8y
+cloud-native    opentelemetry         Running   100%        2y
+cloud-native    terraform             Running   100%        5y
 genai           ollama-llm            Running   100%        2y
 genai           langchain-rag         Running   100%        2y
 genai           n8n-workflows         Running   100%        1y
 genai           chromadb-faiss        Running   100%        2y
 genai           huggingface           Running   100%        2y
-devops          github-actions-cicd   Running   100%        [X]y
-devops          docker                Running   100%        [X]y
-security        k8s-pentesting        Running   100%        [X]y
-security        security-scanning     Running   100%        [X]y
+devops          github-actions-cicd   Running   100%        1y
+devops          docker                Running   100%        6y
+security        k8s-pentesting        Running   100%        2y
+security        security-scanning     Running   100%        1y
 security        mcp                   Running   100%        1y
-languages       go                    Running   100%        [X]y
-languages       python                Running   100%        [X]y
-languages       bash                  Running   100%        [X]y
-edge            raspberry-pi          Running   100%        [X]y
-edge            esp32                 Running   100%        [X]y
+languages       go                    Running   100%        1y
+languages       python                Running   100%        7y
+languages       bash                  Running   100%        9y
+edge            raspberry-pi          Running   100%        6y
+edge            esp32                 Running   100%        2y
 ```
 
 <br>
