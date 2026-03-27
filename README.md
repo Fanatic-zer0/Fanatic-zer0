@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami;SRE+%2F+DevOps+Engineer+%7C+Pune%2C+India;%24+cat+%2Fproc%2Fskills;Kubernetes+%7C+GenAI+%7C+Security+%7C+Edge;%24+sudo+kubectl+apply+-f+self.yaml;Applying...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%5B+OK+%5D+All+systems+operational;THE+MATRIX+HAS+YOU...)](https://git.io/typing-svg)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fanatic-zer0&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami;SRE+%2F+DevOps+Engineer+%7C+Pune%2C+India;%24+cat+%2Fproc%2Fskills;Kubernetes+%7C+GenAI+%7C+Security+%7C+Edge;%24+sudo+kubectl+apply+-f+self.yaml;Applying...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%5B+OK+%5D+All+systems+operational;THE+MATRIX+HAS+YOU...)](https://git.io/typing-svg)
 
 </div>
 
@@ -144,17 +144,12 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&border_color=00FF41" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fanatic-zer0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&border_color=00FF41" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatic-zer0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33&sideNums=00FF41&currStreakNum=00FF41" width="60%" />
-</p>
-
-<!-- Matrix snake: requires GitHub Action setup — see note below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Matrix Snake" />
+  <img src="https://streak-stats.demolab.com/?user=Fanatic-zer0&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33&sideNums=00FF41&currStreakNum=00FF41" width="60%" />
 </p>
 
 <br>
@@ -188,4 +183,4 @@ $ cat /etc/current-ops.d/
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,60:001400,100:000000&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,60:001400,100:000000&height=200&section=footer&animation=fadeIn)
