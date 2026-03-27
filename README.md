@@ -135,6 +135,28 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
 | **[rag-system](https://github.com/yourusername/repo)** | Production-grade RAG with ChromaDB and Hugging Face models | Python · LangChain · ChromaDB |
 | **[k8s-pentest-toolkit](https://github.com/yourusername/repo)** | Automated security scanning and hardening for K8s clusters | Python · Go · Bash |
 
+
+```bash
+$ cat /etc/current-ops.d/
+
+# ░░░░░░░░░░░░░░░░░░░░  ACTIVE MISSIONS  ░░░░░░░░░░░░░░░░░░░░
+
+# [ACTIVE]  Advanced K8s Operators — API gateways, multi-cluster, CRD versioning
+# [ACTIVE]  Local LLM on Raspberry Pi — edge inference via GGUF + llama.cpp
+# [ACTIVE]  ML Data Analysis — time-series forecasting + sentiment extraction
+# [ACTIVE]  AI Agents and MCP - based workflows. 
+
+# ░░░░░░░░░░░░░░░░░░░░  QUEUED MISSIONS  ░░░░░░░░░░░░░░░░░░░░
+
+# [QUEUED]  eBPF for runtime K8s observability
+# [QUEUED]  Agentic AI workflows with multi-LLM orchestration
+```
+
+```text
+ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ 0 1 0 1
+ﾍ 0 1 0 ｾ ﾈ ｽ ﾀ ﾅ ﾓ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ｰ ｳ ｼ ﾅ ﾍ 0 1  ｱ ﾎ ﾃ ｳ ﾐ ﾋ ｰ ｼ
+```
+
 <br>
 
 ```text
@@ -156,36 +178,4 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanatic-zer0&bg_color=000000&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20MATRIX%20GRID" width="98%" alt="Activity Graph" />
 </p>
 
-
 <br>
-
-```bash
-$ cat /etc/current-ops.d/
-
-# ░░░░░░░░░░░░░░░░░░░░  ACTIVE MISSIONS  ░░░░░░░░░░░░░░░░░░░░
-
-# [ACTIVE]  Advanced K8s Operators — API gateways, multi-cluster, CRD versioning
-# [ACTIVE]  Local LLM on Raspberry Pi — edge inference via GGUF + llama.cpp
-# [ACTIVE]  ML Data Analysis — time-series forecasting + sentiment extraction
-# [ACTIVE]  AI Agents and MCP - based workflows. 
-
-# ░░░░░░░░░░░░░░░░░░░░  QUEUED MISSIONS  ░░░░░░░░░░░░░░░░░░░░
-
-# [QUEUED]  eBPF for runtime K8s observability
-# [QUEUED]  Agentic AI workflows with multi-LLM orchestration
-```
-
-```text
-ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ 0 1 0 1
-  ﾐ   ﾋ   ｰ   ｼ   ﾅ   ﾓ   ｻ   ﾂ   ｵ   ﾘ   ﾎ   ﾃ   ｹ   ｴ   ｷ   ﾕ   ｾ   ｽ   ﾇ
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/yourhandle)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=00FF41)](https://yourblog.hashnode.dev)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,60:001400,100:000000&height=200&section=footer&animation=fadeIn)
