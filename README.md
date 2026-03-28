@@ -121,7 +121,7 @@ drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi      
 
 | `>_` Repo | Description | Stack |
 |-----------|-------------|-------|
-| **[Confluence rag-system]([https://github.com/yourusername/repo](https://github.com/Fanatic-zer0/Confluence_RAG))** | Production-grade RAG with Ollama for Confluence | Python · LangChain · Postgres + pgvector |
+| **[Confluence rag-system](https://github.com/Fanatic-zer0/Confluence_RAG)** | Production-grade RAG with Ollama for Confluence | Python · LangChain · Postgres + pgvector |
 | **[k8s-Debug-toolkit](https://github.com/yourusername/repo)** | Debugging and Troubleshooting Tool kit for K8s clusters | Python · Go · Bash |
 | **[k8s-ai-operator](https://github.com/yourusername/repo)** ( in progress ) | Custom CRDs for AI workload orchestration | Go · Kubernetes · Helm |
 | **[n8n-genai-workflows](https://github.com/yourusername/repo)** ( in progress ) | Automated LLM pipelines for RAG, summarization, fine-tuning | n8n · Ollama · Python |
