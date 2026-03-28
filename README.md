@@ -26,41 +26,6 @@
 [console@matrix ~]$ █
 ```
 
-<br>
-
-```text
-╔═════════════════════════════════════════╗
-║       INITIATING SKILL SCAN......       ║
-╚═════════════════════════════════════════╝
-```
-
-```bash
-$ kubectl get skills --all-namespaces -o wide
-
-NAMESPACE       NAME                  STATUS    READINESS   AGE
-cloud-native    kubernetes-operators  Running   100%        6y
-cloud-native    helm                  Running   100%        6y
-cloud-native    prometheus-grafana    Running   100%        8y
-cloud-native    opentelemetry         Running   100%        2y
-cloud-native    terraform             Running   100%        5y
-genai           ollama-llm            Running   100%        2y
-genai           langchain-rag         Running   100%        2y
-genai           n8n-workflows         Running   100%        1y
-genai           chromadb-faiss        Running   100%        2y
-genai           huggingface           Running   100%        2y
-devops          github-actions-cicd   Running   100%        1y
-devops          docker                Running   100%        6y
-security        k8s-pentesting        Running   100%        2y
-security        security-scanning     Running   100%        1y
-security        mcp                   Running   100%        1y
-languages       go                    Running   100%        1y
-languages       python                Running   100%        7y
-languages       bash                  Running   100%        9y
-edge            raspberry-pi          Running   100%        6y
-edge            esp32                 Running   100%        2y
-```
-
-<br>
 
 **`// CLOUD NATIVE & INFRASTRUCTURE`**
 
@@ -105,7 +70,7 @@ edge            esp32                 Running   100%        2y
 
 ```text
 ╔════════════════════════════════════════════╗
-║   DECRYPTING CURRENT PROJECT FILES...      ║
+║   DECRYPTING CURRENT PROJECT...            ║
 ╚════════════════════════════════════════════╝
 ```
 
@@ -132,18 +97,6 @@ $ cat /etc/current-ops.d/
 # [QUEUED]  Agentic AI workflows with multi-LLM orchestration
 ```
 
-```text
-ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ 0 1 0 1
-ﾍ 0 1 0 ｾ ﾈ ｽ ﾀ ﾅ ﾓ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ｰ ｳ ｼ ﾅ ﾍ 0 1  ｱ ﾎ ﾃ ｳ ﾐ ﾋ ｰ ｼ
-```
-
-<br>
-
-```text
-╔══════════════════════════════════╗
-║   READING COMMIT TELEMETRY...    ║
-╚══════════════════════════════════╝
-```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fanatic-zer0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&cache_seconds=14400" width="48%" />
@@ -154,8 +107,16 @@ $ cat /etc/current-ops.d/
   <img src="https://streak-stats.demolab.com/?user=Fanatic-zer0&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33&sideNums=00FF41&currStreakNum=00FF41" width="60%" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanatic-zer0&bg_color=000000&color=00FF41&line=00FF41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20MATRIX%20GRID" width="98%" alt="Activity Graph" />
 </p>
 
 <br>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║   You can kill a man, but you can't kill an idea         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
