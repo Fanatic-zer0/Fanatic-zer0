@@ -6,15 +6,6 @@
 </div>
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║  > ESTABLISHING SECURE CONNECTION...                [  OK  ]     ║
-║  > LOADING IDENTITY MATRIX...                       [  OK  ]     ║
-║  > DECRYPTING SKILL TREE...                         [  OK  ]     ║
-║  > ACCESS GRANTED  ///  WELCOME TO THE SYSTEM       [  OK  ]     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-```text
 [console@matrix ~]$ profilefetch
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
