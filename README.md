@@ -104,19 +104,9 @@ edge            esp32                 Running   100%        2y
 <br>
 
 ```text
-╔══════════════════════════════════╗
-║   DECRYPTING PROJECT FILES...    ║
-╚══════════════════════════════════╝
-```
-
-```bash
-$ ls -la ~/projects/   # decrypting entries...
-
-drwxr-xr-x  k8s-ai-operator/       # Custom CRDs for AI workload orchestration  [Go · K8s · Helm]
-drwxr-xr-x  n8n-genai-workflows/   # LLM pipelines: RAG, summarization, tuning  [n8n · Ollama · Python]
-drwxr-xr-x  rag-system/            # Production RAG with ChromaDB + HuggingFace [Python · LangChain]
-drwxr-xr-x  k8s-pentest-toolkit/   # Automated K8s security scanning & hardening [Python · Go · Bash]
-drwxr-xr-x  pi-fitness-tracker/    # Edge ML macro tracker on Raspberry Pi       [Python · ESP32 · SQL]
+╔════════════════════════════════════════════╗
+║   DECRYPTING CURRENT PROJECT FILES...      ║
+╚════════════════════════════════════════════╝
 ```
 
 | `>_` Repo | Description | Stack |
