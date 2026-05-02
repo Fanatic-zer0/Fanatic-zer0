@@ -1,33 +1,10 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami;SRE+%2F+DevOps+Engineer+%7C+Pune%2C+India;%24+cat+%2Fproc%2Fskills;Kubernetes+%7C+GenAI+%7C+Security+%7C+Edge;%24+sudo+kubectl+apply+-f+self.yaml;Applying...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%5B+OK+%5D+All+systems+operational;THE+MATRIX+HAS+YOU...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FF41&background=000000FF&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+SRE+%2F+DevOps+Engineer+%7C+%F0%9F%93%8D+Pune%2C+India;%24+cat+tech-stack.yaml;%E2%9A%99%EF%B8%8F++Cloud%3A+AWS+%7C+Azure+%7C+GCP;%E2%98%B8%EF%B8%8F++Orchestration%3A+Kubernetes+%7C+Docker+%7C+Helm;%F0%9F%A4%96+AI%2FML%3A+GenAI+%7C+LLMs+%7C+MLOps;%F0%9F%94%92+Security%3A+DevSecOps+%7C+Zero-Trust+%7C+RBAC;%24+kubectl+get+nodes+--show-labels;%3E+Ready+++++%5B+production%3Dtrue+%5D;%24+terraform+apply+-auto-approve;%E2%9C%85+Apply+complete!+Resources%3A+42+added%2C+0+changed;%24+echo+%24MISSION;%3E+Building+resilient+systems+at+scale+%F0%9F%9A%80;+++Wake+up%2C+Neo...+%F0%9F%95%B6%EF%B8%8F)](https://git.io/typing-svg)
 </div>
 
-```text
-[console@matrix ~]$ profilefetch
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│  ﾊ /\  ﾆ /\ ｼ      Fanatic-zer0 @ github.com                        │   
-│   /☸ \ /☸ \       ───────────────────────────────────────          │
-│  / ── \/ ── \     role      │  SRE / DevOps Engineer               │
-│ / ☸       ☸ \     location  │  Pune, India                         │
-│ ─────────────     uptime    │  10+ years in production             │
-│    │   ☸   │      shell     │  zsh 5.9 + tmux 3.3                  │
-│    │       │      editor    │  Neovim / Cursor.ai                  │
-│                   wm        │  tmux + i3                           │
-│  0 1 ﾃ ﾏ ｹ 1 0    focus      │  K8s · GenAI · Security              │ 
-│  ﾊ ﾐ 0 ﾋ ｰ 1 ﾅ     cpu       │  caffeine-overclocked                │
-│  1 ｻ ﾜ ﾂ 0 ｵ ﾘ     memory    │  always OOM, forever paging          │
-│                   colors    │  ▓▓▓▓ 00FF41  ░░░░ 003300            │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-[console@matrix ~]$ █
-```
 
-
-**`// CLOUD NATIVE & INFRASTRUCTURE`**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
 ![Helm](https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm&logoColor=00FF41)
@@ -37,8 +14,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00FF41)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=00FF41)
 
-**`// AI/ML & GENAI`**
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FF41)
@@ -47,61 +22,22 @@
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=00FF41)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)
 
-**`// DEVOPS, SRE & LANGUAGES`**
-
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 
-**`// SECURITY`**
-
 ![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
 ![OWASP](https://img.shields.io/badge/Security_Scanning-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41)
-
-**`// HARDWARE & EDGE`**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=00FF41)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FF41)
 
 <br>
 
-```text
-╔════════════════════════════════════════════╗
-║   DECRYPTING CURRENT PROJECT...            ║
-╚════════════════════════════════════════════╝
-```
 
-| `>_` Repo | Description | Stack |
-|-----------|-------------|-------|
-| **[Confluence rag-system](https://github.com/Fanatic-zer0/Confluence_RAG)** | Production-grade RAG with Ollama for Confluence | Python · LangChain · Postgres + pgvector |
-| **[k8s-Debug-toolkit](https://github.com/yourusername/repo)** | Debugging and Troubleshooting Tool kit for K8s clusters | Python · Go · Bash |
-| **[k8s-ai-operator](https://github.com/yourusername/repo)** ( in progress ) | Custom CRDs for AI workload orchestration | Go · Kubernetes · Helm |
-| **[n8n-genai-workflows](https://github.com/yourusername/repo)** ( in progress ) | Automated LLM pipelines for RAG, summarization, fine-tuning | n8n · Ollama · Python |
-
-```bash
-$ cat /etc/current-ops.d/
-
-# ░░░░░░░░░░░░░░░░░░░░  ACTIVE MISSIONS  ░░░░░░░░░░░░░░░░░░░░
-
-# [ACTIVE]  Advanced K8s Operators — API gateways, multi-cluster, CRD versioning
-# [ACTIVE]  Local LLM on Raspberry Pi — edge inference via GGUF + llama.cpp
-# [ACTIVE]  ML Data Analysis — time-series forecasting + sentiment extraction
-# [ACTIVE]  AI Agents and MCP - based workflows. 
-
-# ░░░░░░░░░░░░░░░░░░░░  QUEUED MISSIONS  ░░░░░░░░░░░░░░░░░░░░
-
-# [QUEUED]  eBPF for runtime K8s observability
-# [QUEUED]  Agentic AI workflows with multi-LLM orchestration
-```
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fanatic-zer0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&cache_seconds=14400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanatic-zer0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33&langs_count=8&cache_seconds=14400" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Fanatic-zer0&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33&sideNums=00FF41&currStreakNum=00FF41" width="60%" />
