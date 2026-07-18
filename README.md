@@ -21,7 +21,7 @@
 
 **What I Build:** Open-source tools, automation frameworks, and production-ready platforms to simplify infrastructure and operational challenges.
 
-**Exploring**: RAG and Model Context Protocol (MCP).
+**Exploring**: LLMOps,AI Infra Deployment, AIOps Tools, RAG & Vector Databases.
 
 ---
 
