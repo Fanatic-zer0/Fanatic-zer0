@@ -1,10 +1,8 @@
 <div align="center">
-# H A R S H H A A
 
 ## **SRE • Devops • Cloud Engineer • GenAI**
 
-
-• `DevOps` 
+`DevOps` 
 • `Platform Engineering` 
 • `MLOps` 
 • `LLMOps` 
@@ -12,11 +10,10 @@
 • `MCP` 
 • `AI Infrastructure`
 
-### *Building resilient systems, orchestrating containers, and automating the mundane.*
+#### Building resilient systems, orchestrating containers, and automating the mundane
 ---
 
-# 👋 Hi,
-
+### 👋 Hi there, 
 **About me:** I specialize in building, maintaining, and scaling resilient infrastructure. I'm passionate about automating away the toil, orchestrating containers, and writing efficient internal tooling. If it can be automated, I'm probably writing a script for it right now.
 
 **What I Build:** Open-source tools, automation frameworks, and production-ready platforms to simplify infrastructure and operational challenges.
@@ -24,6 +21,8 @@
 **Exploring**: LLMOps,AI Infra Deployment, AIOps Tools, RAG & Vector Databases.
 
 ---
+
+
 
 # 📊 GitHub Statistics
 
@@ -78,6 +77,20 @@
 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+# ⭐ Certifications
+
+<!-- ![Kubestronaut](https://img.shields.io/badge/Kubestronaut-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+![CKA](https://img.shields.io/badge/CKA-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKS](https://img.shields.io/badge/CKS-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure AZ-104](https://img.shields.io/badge/Azure%20AZ--104-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 
 
 </div>
