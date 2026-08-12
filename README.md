@@ -125,12 +125,6 @@
     <td>🧩 LLMOps</td>
     <td>🔍 RAG</td>
   </tr>
-  <tr>
-    <td>💬 Prompt Engineering</td>
-    <td>🧠 Context Engineering</td>
-    <td>⚡ AI Automation</td>
-    <td>👨‍💻 Developer Experience</td>
-  </tr>
 </table>
 
 ---
