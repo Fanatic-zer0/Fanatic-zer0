@@ -23,7 +23,6 @@
 ---
 
 
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -49,83 +48,6 @@
 
 </table>
 
-</div>
-
-
-
-# ⚡ Skill Stack
-
-<div align="center">
-
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
-
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-# ⭐ Certifications
-
-<!-- ![Kubestronaut](https://img.shields.io/badge/Kubestronaut-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-![CKA](https://img.shields.io/badge/CKA-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CKAD](https://img.shields.io/badge/CKAD-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CKS](https://img.shields.io/badge/CKS-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure AZ-104](https://img.shields.io/badge/Azure%20AZ--104-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-
-
-</div>
-
----
-
-
-# 🚀 Areas of Expertise
-
-<table>
-  <tr>
-    <td>☁️ Cloud Infrastructure</td>
-    <td>☸️ Kubernetes</td>
-    <td>⚙️ DevOps Engineering</td>
-    <td>🏗️ Platform Engineering</td>
-  </tr>
-  <tr>
-    <td>🛠️ Internal Developer Platforms</td>
-    <td>🚀 GitOps</td>
-    <td>📊 Observability</td>
-    <td>🤖 AI Infrastructure</td>
-  </tr>
-  <tr>
-    <td>🧠 Generative AI</td>
-    <td>🤖 AI Agents</td>
-    <td>🕸️ Agentic AI Systems</td>
-    <td>🔗 Model Context Protocol (MCP)</td>
-  </tr>
-  <tr>
-    <td>🤝 Agent2Agent (A2A)</td>
-    <td>📚 MLOps</td>
-    <td>🧩 LLMOps</td>
-    <td>🔍 RAG</td>
-  </tr>
-</table>
 
 ---
 
